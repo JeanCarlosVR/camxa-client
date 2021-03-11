@@ -13,10 +13,6 @@ export const restEndpoints: any = {
     }
 }
 
-/**
- * 
- * Cambiar AXIOS por otro que pase en JSON y no en string, golang lee json, NO STRINGS
- */
 export async function getUser(token: string, id: string): Promise<any> {
     const _r: AxiosPromise<any> | any = await Axios({
         method: "POST",

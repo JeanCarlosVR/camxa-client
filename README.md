@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Camxa
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Learning to create an website with [React](https://github.com/facebook/create-react-app) and Redux.
 
 ## Available Scripts
 
